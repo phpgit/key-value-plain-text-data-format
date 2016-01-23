@@ -6,7 +6,7 @@ A user friendly plain text fromat for data entity exchange
 ---
 format
 the first line will be '#1.0.0.kvp.txt'
-the second will be the divider, default is '---', can be blank line
+the second will be the divider, default is '---', it can be other string, like '@@@', '###' ...
 ---
 title
 this is a title for test
